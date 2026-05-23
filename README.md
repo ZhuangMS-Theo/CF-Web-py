@@ -3,7 +3,7 @@
 基于 Cloudflare Workers 构建的高速通用网关，利用 Cloudflare 全球 200+ 边缘节点加速访问，完美解决各种兼容性问题，支持所有网站和 WebSocket 长连接。
 
 <div align="center">
-  <a href="https://1234567890abcd.com/daimajj" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; margin: 20px 0;">
+  <a href="https://github.com/zhuangmiaosen/CF-Web-py/blob/main/%E4%BB%A3%E7%A0%81%E8%A7%A3%E9%87%8A.md" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; margin: 20px 0;">
     📚 查看完整代码讲解
   </a>
 </div>

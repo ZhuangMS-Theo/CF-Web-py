@@ -1,3 +1,4 @@
+//版本：1.0
 export default {
   // 主请求处理入口：所有请求都会经过这个函数
   async fetch(request, env, ctx) {

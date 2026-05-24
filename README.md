@@ -2,6 +2,15 @@
 # Cloudflare 全球加速网关
 基于 Cloudflare Workers 构建的高速通用网关，利用 Cloudflare 全球 200+ 边缘节点加速访问，完美解决各种兼容性问题，支持所有网站和 WebSocket 长连接。
 
+## Star History（求Star）
+<a href="https://www.star-history.com/?repos=ZhuangMS-Theo%2FCF-Web-py&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ZhuangMS-Theo/CF-Web-py&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ZhuangMS-Theo/CF-Web-py&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ZhuangMS-Theo/CF-Web-py&type=date&legend=top-left" />
+ </picture>
+</a>
+
 <div align="center">
   <a href="https://github.com/ZhuangMS-Theo/CF-Web-py/blob/main/EXPLANATION.md" style="display: inline-block; padding: 12px 24px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; font-weight: 600; margin: 20px 0;">
     📚 查看完整代码讲解

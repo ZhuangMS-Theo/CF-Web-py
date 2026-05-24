@@ -188,4 +188,4 @@ https://gw.example.com/
 - 静态资源会被Cloudflare自动缓存，加速后续访问
 
 ## 📄 许可证
-MIT License
+CC BY-NC-SA 4.0
